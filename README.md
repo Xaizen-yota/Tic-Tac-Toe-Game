@@ -4,7 +4,7 @@ This is a simple Tic Tac Toe game implemented using HTML, CSS, and JavaScript. I
 
 ## Demo
 
-You can play the game by opening the [Tic Tac Toe Game](index.html) file in your web browser.
+You can play the game by opening the [Tic Tac Toe Game](https://xaizen-yota.github.io/Tic-Tac-Toe-Game/) file in your web browser.
 
 ## How to Play
 
