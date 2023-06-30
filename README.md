@@ -33,8 +33,8 @@ You can play the game by opening the [Tic Tac Toe Game](index.html) file in your
 ## Project Structure
 
 - `index.html`: The main HTML file that contains the game grid and scripts.
-- `style1.css`: The CSS file that defines the styling for the game.
-- `scripts1.js`: The JavaScript file that implements the game logic.
+- `style.css`: The CSS file that defines the styling for the game.
+- `script.js`: The JavaScript file that implements the game logic.
 
 ## Contributions
 
